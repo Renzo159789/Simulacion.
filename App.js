@@ -1,3 +1,4 @@
+console.log("Hola");
 const readline = require("readline");
 const { mostrarVehiculos, registrarVehiculo, mostrarMenu } = require("./frontend");
 
